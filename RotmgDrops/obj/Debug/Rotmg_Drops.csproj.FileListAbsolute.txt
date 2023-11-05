@@ -1,0 +1,10 @@
+D:\MyData\Programming\C#\Rotmg_Drops\Rotmg_Drops\obj\Debug\Rotmg_Drops.csprojAssemblyReference.cache
+D:\MyData\Programming\C#\Rotmg_Drops\Rotmg_Drops\obj\Debug\Rotmg_Drops.MainForm.resources
+D:\MyData\Programming\C#\Rotmg_Drops\Rotmg_Drops\obj\Debug\Rotmg_Drops.Properties.Resources.resources
+D:\MyData\Programming\C#\Rotmg_Drops\Rotmg_Drops\obj\Debug\Rotmg_Drops.csproj.GenerateResource.cache
+D:\MyData\Programming\C#\Rotmg_Drops\Rotmg_Drops\obj\Debug\Rotmg_Drops.csproj.CoreCompileInputs.cache
+D:\MyData\Programming\C#\Rotmg_Drops\Rotmg_Drops\bin\Debug\Rotmg_Drops.exe.config
+D:\MyData\Programming\C#\Rotmg_Drops\Rotmg_Drops\bin\Debug\Rotmg_Drops.exe
+D:\MyData\Programming\C#\Rotmg_Drops\Rotmg_Drops\bin\Debug\Rotmg_Drops.pdb
+D:\MyData\Programming\C#\Rotmg_Drops\Rotmg_Drops\obj\Debug\Rotmg_Drops.exe
+D:\MyData\Programming\C#\Rotmg_Drops\Rotmg_Drops\obj\Debug\Rotmg_Drops.pdb
